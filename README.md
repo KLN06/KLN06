@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KLN06
-- 👀 I’m interested in programming and drawing
-- 🌱 I’m currently learning C++, JavaScript and Game Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in programming, drawing, singing, videogames and movies
+- 🌱 I’m currently learning C# and Java
+- 📫 You can reach me via my email kaloyan06petrov@gmail.com
 
 <!---
 KLN06/KLN06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
